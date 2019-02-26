@@ -89,6 +89,6 @@ A tool that will automatically add all of the contributors from a file to your p
 
 Great project for documenting react projects with mdx. Also a great example of good documentation.
 
-### [read the docs + sphinx](readthedocs.io)
+### [read the docs + sphinx](https://readthedocs.io)
 
 A free but add supported way to automatically build and host your docs. You can use standard markdown files in a docs directory and you will need to use python to configure initilaly.
