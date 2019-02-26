@@ -73,7 +73,7 @@ A series of the 4 ways to build confidence in your users from a readme, describe
 
 ## Tools
 
-### [Docosaurus](http://docosaurus.io)
+### [Docusaurus](http://docusaurus.io)
 
 Created by the Facebook Opensource Team to create a simple way to document projects.
 
